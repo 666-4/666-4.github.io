@@ -1,3 +1,12 @@
+http://example.com/shuoshuo/index.html
+http://example.com/photos/index.html
+http://example.com/music/index.html
+http://example.com/movies/index.html
+http://example.com/comment/index.html
+http://example.com/tags/index-2.html
+http://example.com/archives/index.html
+http://example.com/tags/index-1.html
+http://example.com/categories/index-1.html
 http://example.com/posts/4a17b156.html
 http://example.com/posts/0.html
 http://example.com/categories/index.html
