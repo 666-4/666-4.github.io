@@ -1,4 +1,5 @@
-http://example.com/posts/0.html
+http://example.com/posts/2.html
+http://example.com/posts/1.html
 http://example.com/posts/0.html
 http://example.com/about/index.html
 http://example.com/shuoshuo/index.html
@@ -14,4 +15,5 @@ http://example.com/link/index.html
 http://example.com/tags/index.html
 http://example.com/
 http://example.com/tags/mysql/
+http://example.com/tags/%E5%A4%9A%E7%BA%BF%E7%A8%8B/
 http://example.com/tags/java/
